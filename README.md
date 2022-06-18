@@ -1,6 +1,6 @@
 # Assignment - Orbital: The Meal DB Website
 
-![Screenshot](https://raw.githubusercontent.com/kevinvdburgt/assignment-orbital-themealdb-website/assets/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/kevinvdburgt/assignment-orbital-themealdb-website/development/assets/screenshot.png)
 
 ## How to run locally
 
